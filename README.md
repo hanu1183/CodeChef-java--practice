@@ -20,3 +20,6 @@ I am learning Java with zero coding knowledge! Here is a tracker of my solved pr
 | Currency Exchange Rates and Conversions | [https://www.codechef.com/learn/course/java-development/NREETQ/problems/CRQDWE30](https://codechef) | Solved | 100/100  |
 **#operarors topic practice**
 | Check Vehicle Number Properties | [https://www.codechef.com/learn/course/java-development/NREETQ/problems/CRQDWE25](https://codechef) | Solved | Completed |
+<a href="https://codechef.com">
+  <img src="CodeChefBadge.png" width="150" alt="CodeChef Bronze Badge">
+</a>

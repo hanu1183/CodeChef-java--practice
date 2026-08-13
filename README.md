@@ -14,3 +14,5 @@ I am learning Java with zero coding knowledge! Here is a tracker of my solved pr
 | Track Poster Stock | [https://www.codechef.com/learn/course/java-development/NREETQ/problems/CRQDWE10](https://codechef) | Done | 100/100 |
 **#Learning multiplication operator**
 | Fundraising Event Management | [https://www.codechef.com/learn/course/java-development/NREETQ/problems/CRQDWE15](https://codechef) | Passed | 100/100 |
+**##Learning division operator**
+| Calculating the Average Candy | [https://www.codechef.com/learn/course/java-development/NREETQ/problems/CRQDWE20](https://codechef) | Solved | Completed |

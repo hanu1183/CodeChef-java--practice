@@ -16,5 +16,7 @@ I am learning Java with zero coding knowledge! Here is a tracker of my solved pr
 | Fundraising Event Management | [https://www.codechef.com/learn/course/java-development/NREETQ/problems/CRQDWE15](https://codechef) | Passed | 100/100 |
 **##Learning division operator**
 | Calculating the Average Candy | [https://www.codechef.com/learn/course/java-development/NREETQ/problems/CRQDWE20](https://codechef) | Solved | Completed |
-#My progress
+**#My progress**
 | Currency Exchange Rates and Conversions | [https://www.codechef.com/learn/course/java-development/NREETQ/problems/CRQDWE30](https://codechef) | Solved | 100/100  |
+**#operarors topic practice**
+| Check Vehicle Number Properties | [https://www.codechef.com/learn/course/java-development/NREETQ/problems/CRQDWE25](https://codechef) | Solved | Completed |

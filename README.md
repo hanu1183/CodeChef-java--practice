@@ -10,3 +10,5 @@ I am learning Java with zero coding knowledge! Here is a tracker of my solved pr
 | Speed Limit Enforcement System | [https://www.codechef.com/learn/course/java-development/QMDQQC/problems/TONKSS30](https://codechef.com) | Solved | Finished |
 **#Learning addition operator**
 | Tracking daily exercise in java | [https://www.codechef.com/learn/course/java-development/NREETQ/problems/CRQDWE05](https://codechef.com) | Solved | Finished |
+**##Learning subtraction operator**
+| Track Poster Stock | [https://www.codechef.com/learn/course/java-development/NREETQ/problems/CRQDWE10](https://codechef) | Done | 100/100 |

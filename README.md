@@ -31,3 +31,5 @@ I am learning Java with zero coding knowledge! Here is a tracker of my solved pr
 | Fuel Consumption Tracker | [https://www.codechef.com/learn/course/java-development/TCXDPZ/problems/SKDNBU15](https://codechef) | Completed |
 # Practicing third type assignment operator
 | Salary Bonus Calculator | [Vhttps://www.codechef.com/learn/course/java-development/TCXDPZ/problems/SKDNBU20](https://codechef) | Finished |
+# Practicinf forth type assignment operator
+| Data Storage Converter | [https://www.codechef.com/learn/course/java-development/TCXDPZ/problems/SKDNBU25](https://codechef) | 100/100 |

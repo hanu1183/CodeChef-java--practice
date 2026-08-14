@@ -1,0 +1,16 @@
+class Codechef {
+    public static void main(String[] args) {
+        // Given variables: Total storage in kilobytes and conversion factor
+int totalStorage = 1024000;
+int conversionFactor = 1024;
+int ts = totalStorage;
+ts /= conversionFactor;
+System.out.println(ts);
+
+        // Convert kilobytes to megabytes using /= 
+
+
+        // Print the updated storage size
+    
+    }
+}

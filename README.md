@@ -25,3 +25,5 @@ I am learning Java with zero coding knowledge! Here is a tracker of my solved pr
 </a>
 **#MY Assignment**
 | Grocery Bill Calculator | [https://www.codechef.com/learn/course/java-development/TCXDPZ/problems/SKDNBU05](https://codechef) | Done | Completed |
+# Practicing assignment operator
+| Bank Calculator | [https://www.codechef.com/learn/course/java-development/TCXDPZ/problems/SKDNBU10](https://codechef) | Finished |

@@ -35,3 +35,5 @@ I am learning Java with zero coding knowledge! Here is a tracker of my solved pr
 | Data Storage Converter | [https://www.codechef.com/learn/course/java-development/TCXDPZ/problems/SKDNBU25](https://codechef) | 100/100 |
 ## Practicing fifth type assignment operator
 | Parcel Distribution System | [https://www.codechef.com/learn/course/java-development/TCXDPZ/problems/SKDNBU30](https://codechef) | Solved |
+# Practicing chain assignment operator
+| Inventory Stock Adjustment | [https://www.codechef.com/learn/course/java-development/TCXDPZ/problems/SKDNBU35?tab=Help](https://codechef) | 100/100 | 

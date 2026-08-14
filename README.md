@@ -23,3 +23,5 @@ I am learning Java with zero coding knowledge! Here is a tracker of my solved pr
 <a href="https://codechef.com">
   <img src="CodeChefBadge.png" width="150" alt="CodeChef Bronze Badge">
 </a>
+**#MY Assignment**
+| Grocery Bill Calculator | [https://www.codechef.com/learn/course/java-development/TCXDPZ/problems/SKDNBU05](https://codechef) | Done | Completed |

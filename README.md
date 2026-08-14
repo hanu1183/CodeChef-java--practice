@@ -38,3 +38,4 @@ I am learning Java with zero coding knowledge! Here is a tracker of my solved pr
 # Practicing chain assignment operator
 | Inventory Stock Adjustment | [https://www.codechef.com/learn/course/java-development/TCXDPZ/problems/SKDNBU35?tab=Help](https://codechef) | 100/100 | 
 [![CodeChef](https://vercel.app gaily_seas_45)](https://codechef.com)
+![](https://vercel.app)

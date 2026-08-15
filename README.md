@@ -32,5 +32,5 @@ I am learning Java with zero coding knowledge! Here is a tracker of my solved pr
 Here is a look at my platform achievements:
 <p align="left">
   <img src="./Badges/CodeChefBadge.png" alt="CodeChef Bronze Badge" width="120" style="margin-right: 15px;" />
-  <img src="./Badges/My New Badge.png" alt="My New Badge" width="120" />
+  <img src="./Badges/My New Badge.jpg" alt="My New Badge" width="120" />
 </p>

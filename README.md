@@ -28,13 +28,9 @@ I am learning Java with zero coding knowledge! Here is a tracker of my solved pr
 | *Data Storage Converter* | [View Code](./Assignment/Assignment5.java) | 💯 100/100 | Handled division assignment (/=) to scale data metrics down from larger bit counts. |
 | *Parcel Distribution System* | [View Code](./Assignment/Assignment6.java) | ✅ Solved | Utilized modulus assignment (%=) to distribute leftovers across target storage zones. |
 | *Inventory Stock Adjustment* | [View Folder](./Assignment/) | 💯 100/100 | Set up chained variable assignments (a = b = c) to calibrate unified warehouse stock bases. |
-
 ## 🏅 Earned Badges
 Here is a look at my platform achievements:
-![CodeChef Bronze Badge](./Badges/CodeChefBadge.png)
-
-Here is a look at my platform achievements:
 <p align="left">
-  <img src="./Badges/CodeChefBadge.png" alt="CodeChef Bronze Badge" width="120" style="margin-right: 10px;" />
-  <img src="./Badges/YOUR_NEW_FILE_NAME" alt="My New Badge" width="120" />
+  <img src="./Badges/CodeChefBadge.png" alt="CodeChef Bronze Badge" width="120" style="margin-right: 15px;" />
+  <img src="./Badges/My New Badge.png" alt="My New Badge" width="120" />
 </p>

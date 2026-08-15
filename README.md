@@ -32,7 +32,7 @@ I am learning Java with zero coding knowledge! Here is a tracker of my solved pr
 ## 🏅 Earned Badges
 Here is a look at my platform achievements:
 ![CodeChef Bronze Badge](./Badges/CodeChefBadge.png)
-## 🏅 Earned Badges
+
 Here is a look at my platform achievements:
 <p align="left">
   <img src="./Badges/CodeChefBadge.png" alt="CodeChef Bronze Badge" width="120" style="margin-right: 10px;" />

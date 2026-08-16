@@ -15,9 +15,9 @@ I am learning Java with zero coding knowledge! Here is a tracker of my solved pr
 | *Fundraising Event Management* | [View Code](./Basic-Calculations/Divide.java) | 🧭 Passed | 100/100 | Applied the multiplication operator (*) to compound donation goals and tickets. |
 | *Calculating the Average Candy* | [View Code](./Basic-Calculations/Floating%20point%20division.java) | ✅ Solved | Completed | Mastered standard division (/) to split total assets equally into whole numbers. |
 | *Check Vehicle Number Properties* | [View Code](./Prac.java/Main.java) | ✅ Solved | Completed | Practiced floating-point division using decimals to find highly precise mathematical averages. |
-| *Currency Exchange Rates and Conversions* | [View Folder](./Basic-Calculations/) | ✅ Solved | 100/100 | Combined multi-operator calculations to convert monetary funds across variable world rates. |
-| PreIncrement.java | codelink |  ✅ | Solved | [Code](./Prac.java/PreIncrement.java) |
-| Count++.java | code link |  ✅| Solved | [Code](./Prac.java/Count++.java) |
+| *Currency Exchange Rates and Conversions* | [View Code](./Basic-Calculations/) | ✅ Solved | 100/100 | Combined multi-operator calculations to convert monetary funds across variable world rates. |
+| PreIncrement.java | [View Code](./Prac.java/PreIncrement.java) | ✅ Solved | Completed | Practicing Pre Increment Operator  |
+| Count++.java | [View Code](./Prac.java/Count++.java) | ✅ Solved | Completed | Practicing Post Increment Operator |
 
 ## 🛠️ My Assignment Practice
 

@@ -49,3 +49,9 @@ Welcome to my repository! This is where I track my daily progress, practice codi
 * *W3Schools Focus:* Mastering advanced operator logic, relational conditions, and supplementary exercises.
 * *Next Destination:* Heading back to CodeChef for Module 4: Strings and Text Processing.
 
+ ## My Problems Practice
+
+ | Problems | Link to Code | Status / Score | Focus Topic |
+ | :--- | :--- | :--- | :--- |
+ |
+

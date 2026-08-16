@@ -34,8 +34,7 @@ Here is a look at my platform achievements:
   <img src="./Badges/CodeChefBadge.png" alt="CodeChef Bronze Badge" width="120" style="margin-right: 15px;" />
   <img src="./Badges/MySecondBadge.png" alt="My Second Badge" width="120" />
 </p>
-| Preincrement | [View Code](PreIncrement.java) | 🚩 100/100 | Explains pre-increment (++x) behavior. |
-| count++ | [View Code](count++.java) | 🚩 100/100 | Explains post-increment (x++) behavior. |
+
 # ☕ My Daily Java Learning Journey
 
 Welcome to my profile! I am a beginner programmer focusing on mastering Java fundamentals from scratch.

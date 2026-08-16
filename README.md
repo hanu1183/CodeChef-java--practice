@@ -36,3 +36,11 @@ Here is a look at my platform achievements:
 </p>
 | Preincrement | [View Code](PreIncrement.java) | 🚩 100/100 | Explains pre-increment (++x) behavior. |
 | count++ | [View Code](count++.java) | 🚩 100/100 | Explains post-increment (x++) behavior. |
+# ☕ My Daily Java Learning Journey
+
+Welcome to my profile! I am a beginner programmer focusing on mastering Java fundamentals from scratch.
+
+## 📊 Quick Stats
+- *CodeChef Progress:* Solved 150+ fundamental logic and Operator problems!
+- *Current Focus:* Moving to HackerRank to learn Conditions, Loops, and Arrays.
+- *Goal:* Keep my GitHub graph green with daily code updates.

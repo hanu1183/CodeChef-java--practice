@@ -39,9 +39,13 @@ Here is a look at my platform achievements:
 
 # ☕ My Daily Java Learning Journey
 
-Welcome to my profile! I am a beginner programmer focusing on mastering Java fundamentals from scratch.
+Welcome to my repository! This is where I track my daily progress, practice coding logic, and maintain consistency to keep my GitHub contribution graph green.
 
-## 📊 Quick Stats
-- *CodeChef Progress:* Solved 150+ fundamental logic and Operator problems!
-- *Current Focus:* Moving to HackerRank to learn Conditions, Loops, and Arrays.
-- *Goal:* Keep my GitHub graph green with daily code updates.
+---
+
+## 📊 Summary of Learning
+
+* *CodeChef Progress:* Completed basic syntax, arithmetic, assignment, and increment/decrement operators (*150+ problems solved!*).
+* *W3Schools Focus:* Mastering advanced operator logic, relational conditions, and supplementary exercises.
+* *Next Destination:* Heading back to CodeChef for Module 4: Strings and Text Processing.
+
